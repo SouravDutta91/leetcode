@@ -1,6 +1,8 @@
 # Leetcode
 This repository contains solutions to coding problems from [Leetcode](https://leetcode.com/problemset/).
 
+The list of the problems with their solutions can be found [here](/problems).
+
 # Notes
 * All solutions are developed in Python 3.x
 * These may not be the best or the most optimal solutions.
@@ -8,6 +10,7 @@ This repository contains solutions to coding problems from [Leetcode](https://le
 * Each solution script contains documentation.
 * Leetcode already provides you with a starting code snippet. I have tried to use that as much as possible for each problem.
 * Each solution script contains the main() function that will help you run the script to see the results in the console. However, for LeetCode, you just need the code snippet (without the main() function) for submissions.
+* This repository will be continuously updated newer solutions. It is recommended to `watch / star` this repository so that you are notified with further updates.
 
 # Issues
 * If you face any problems with any of the solutions, please feel free to open an issue [here](https://github.com/SouravDutta91/leetcode/issues).

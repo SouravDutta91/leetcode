@@ -38,7 +38,7 @@ Only one valid answer exists.
  
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 
-## Output
+## Test case outputs
 
 ```
 [0, 1]

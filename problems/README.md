@@ -4,8 +4,8 @@ All the LeetCode problems can be found [here](https://leetcode.com/problemset/).
 
 |Index|Problem|Difficulty|LeetCode link|Folder|
 |-----|-------|----------|-------------|------|
-|1|Two Sum|Easy|[Link](https://leetcode.com/problems/two-sum/)||
-|2|Add Two Numbers|Medium|[Link](https://leetcode.com/problems/add-two-numbers/)||
+|1|Two Sum|Easy|[Link](https://leetcode.com/problems/two-sum/)|[Link](/problems/1_Two_Sum)|
+|2|Add Two Numbers|Medium|[Link](https://leetcode.com/problems/add-two-numbers/)|[Link](/problems/2_Add_Two_Numbers)|
 |3|Longest Substring Without Repeating Characters|Medium|[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters)||
 |4|Mediun of Two Sorted Arrays|Hard|[Link](https://leetcode.com/problems/median-of-two-sorted-arrays)||
 |5|Longest Palindromiic Substring|Medium|[Link](https://leetcode.com/problems/longest-palindromic-substring)||

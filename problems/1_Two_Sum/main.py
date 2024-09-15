@@ -25,7 +25,7 @@ class Solution:
 # main function
 def main():
 
-    # create an instance of the Solution class
+    # Create an instance of the Solution class
     solution = Solution()
     
     # Example 1 from the problem
